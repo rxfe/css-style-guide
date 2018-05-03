@@ -59,7 +59,7 @@
         - after-declaration
         - after-comment
 
-### 3. 有趣的
+#### 3. 有趣的
 
 stylelint里面只有empty-line-before，没有empty-line-after，这是因为每个元素都只负责和它前一个元素的距离。
 
